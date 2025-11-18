@@ -1,4 +1,6 @@
 # José Carlos Ibarra Aguayo
+Cabe recalcar que la API que investigamos ya no ofrece planes gratuitos, asi que usamos otra
+
 Nombre: José Carlos Ibarra Aguayo
 
 Edad: 15
